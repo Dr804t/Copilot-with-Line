@@ -1,0 +1,4 @@
+# Ignore environment files
+.env
+ngrok.exe
+*node_modules/*
